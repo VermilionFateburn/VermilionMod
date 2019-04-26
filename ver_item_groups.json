@@ -5,7 +5,8 @@
     "items": [
 	[ "hf_blade", 2 ],
 	[ "manual_augsword", 2 ],
-	[ "absolute_reaper", 2 ]
+	[ "absolute_reaper", 2 ],
+	[ "jet_hammer_off", 5 ]
 	]
 	},
     {	
@@ -46,7 +47,8 @@
 	[ "egg_vibrator", 15 ],
 	[ "canine_dildo", 10 ],
 	[ "equine_dildo", 7 ],
-	[ "pb_leaflet_shion", 5 ]
+	[ "pb_leaflet_shion", 5 ],
+	[ "jet_hammer_off", 2 ]
 	]
 	},
 	{
@@ -94,14 +96,16 @@
 	[ "equine_dildo", 15 ],
 	[ "skimpy_swimsuit", 45 ],
 	[ "absolute_reaper", 5 ],
-	[ "pb_leaflet_shion", 10 ]
+	[ "pb_leaflet_shion", 10 ],
+	[ "jet_hammer_off", 5 ]
 	]
 	},
 	{
     "id": "elecsto_persele",
     "type": "item_group",
     "items": [
-	[ "egg_vibrator", 1 ]
+	[ "egg_vibrator", 1 ],
+	[ "jet_hammer_off", 1 ]
 	]
 	},
 	  {
@@ -122,14 +126,16 @@
 	[ "pb_leaflet_shion", 1 ],
 	[ "canine_dildo", 1 ],
 	[ "equine_dildo", 1 ],
-	[ "egg_vibrator", 1 ]
+	[ "egg_vibrator", 1 ],
+	[ "jet_hammer_off", 1 ]
 	]
 	},
 	{
     "type" : "item_group",
     "id" : "mine_storage",
     "items":[
-	[ "mre_vintage", 7 ]
+	[ "mre_vintage", 7 ],
+	[ "jet_hammer_off", 25 ]
 	]
 	},
 	{
@@ -138,7 +144,8 @@
     "items":[
 	[ "mre_vintage", 8 ],
 	[ "pb_leaflet", 15 ],
-	[ "pb_leaflet_shion", 2]
+	[ "pb_leaflet_shion", 2 ],
+	[ "jet_hammer_off", 15 ]
 	]
 	},
 	{
@@ -147,7 +154,8 @@
     "items":[
 	[ "mre_vintage", 2 ],
 	[ "pb_leaflet", 15 ],
-	[ "pb_leaflet_shion", 2 ]
+	[ "pb_leaflet_shion", 2 ],
+	[ "jet_hammer_off", 15 ]
 	]
 	},
 	{
@@ -158,7 +166,8 @@
 	[ "absolute_reaper", 5 ],
 	[ "canine_dildo", 5 ],
 	[ "equine_dildo", 5 ],
-	[ "pb_leaflet_shion", 10 ]
+	[ "pb_leaflet_shion", 10 ],
+	[ "jet_hammer_off", 30 ]
 	]
 	},
 	{
@@ -173,7 +182,8 @@
     "id" : "vault_wanderer",
 	"items":[
 	[ "mre_vintage", 15 ],
-	[ "absolute_reaper", 1 ]
+	[ "absolute_reaper", 1 ],
+	[ "jet_hammer_off", 5 ]
 	]
 	},
 	{
