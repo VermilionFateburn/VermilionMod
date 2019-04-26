@@ -14,7 +14,7 @@
     "symbol": "(",
     "color": "magenta",
     "ammo": "metal_rail",
-    "skill": "launcher",
+    "skill": "rifle",
     "range": 45,
     "ranged_damage": 50,
     "pierce": 115,
