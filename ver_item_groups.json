@@ -6,7 +6,8 @@
 	[ "hf_blade", 2 ],
 	[ "manual_augsword", 2 ],
 	[ "absolute_reaper", 2 ],
-	[ "jet_hammer_off", 5 ]
+	[ "jet_hammer_off", 5 ],
+	[ "pb_eyepatch", 2 ]
 	]
 	},
     {	
@@ -15,7 +16,8 @@
 	"items": [
 	[ "hf_blade", 2 ],
 	[ "manual_augsword", 2 ],
-	[ "absolute_reaper", 2 ]
+	[ "absolute_reaper", 2 ],
+	[ "pb_eyepatch", 2 ]
 	]
 	},
  {
@@ -48,7 +50,8 @@
 	[ "canine_dildo", 10 ],
 	[ "equine_dildo", 7 ],
 	[ "pb_leaflet_shion", 3 ],
-	[ "jet_hammer_off", 2 ]
+	[ "jet_hammer_off", 2 ],
+	[ "pb_eyepatch", 1 ]
 	]
 	},
 	{
@@ -114,7 +117,8 @@
     "items": [
 	[ "hf_blade", 1 ],
 	[ "manual_augsword", 1 ],
-	[ "bomb_suit", 10 ]
+	[ "bomb_suit", 10 ],
+	[ "pb_eyepatch", 1 ]
 	]
 	},
 	{
@@ -170,7 +174,8 @@
 	[ "jet_hammer_off", 25 ],
 	[ "ptrs41", 27 ],
 	[ "145x114mm", 30 ],
-	[ "145x114mm_mag", 30 ]
+	[ "145x114mm_mag", 30 ],
+	[ "pb_eyepatch", 5 ]
 	]
 	},
 	{

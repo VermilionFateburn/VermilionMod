@@ -41,5 +41,31 @@
     "material_thickness": 0,
     "environmental_protection": 0,
     "flags": [ "VARSIZE", "WATER_FRIENDLY", "SKINTIGHT", "SUPER_FANCY", "OVERSIZE" ]
+	},
+	{
+    "id": "pb_eyepatch",
+    "type": "ARMOR",
+    "category": "clothing",
+    "name": "tactical eyepatch",
+	"plural": "tactical eyepatches",
+    "description": "A large strip of neoprene meant to be wrapped around the head, covering one eye and then some. Inserted on the inside is a small crystal screen, streaming constant footage from the ultra HD bite-sized camera on the outer side of the eyepatch. Does not bring vision to a blind eye.",
+    "weight": 9,
+    "volume": 1,
+	"to_hit": -3,
+    "price": 2500000,
+    "material": [ "neoprene" ],
+    "symbol": "[",
+    "color": "blue",
+    "covers": [ "EYES" ],
+    "coverage": 5,
+    "encumbrance": 7,
+    "warmth": 2,
+    "material_thickness": 1,
+    "environmental_protection": 1,
+	"artifact_data" : {
+	"effects_worn": ["AEP_PER_UP"]
+	},
+    "flags": [ "WATER_FRIENDLY", "SKINTIGHT", "OVERSIZE", "FIX_FARSIGHT", "FIX_NEARSIGHT" ]
 	}
 	]
+	
