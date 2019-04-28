@@ -47,7 +47,7 @@
 	[ "egg_vibrator", 15 ],
 	[ "canine_dildo", 10 ],
 	[ "equine_dildo", 7 ],
-	[ "pb_leaflet_shion", 5 ],
+	[ "pb_leaflet_shion", 3 ],
 	[ "jet_hammer_off", 2 ]
 	]
 	},
@@ -96,7 +96,7 @@
 	[ "equine_dildo", 15 ],
 	[ "skimpy_swimsuit", 45 ],
 	[ "absolute_reaper", 5 ],
-	[ "pb_leaflet_shion", 10 ],
+	[ "pb_leaflet_shion", 5 ],
 	[ "jet_hammer_off", 5 ]
 	]
 	},
@@ -162,12 +162,15 @@
     "type" : "item_group",
     "id" : "spider",
 	"items":[
-	[ "mre_vintage", 15 ],
+	[ "mre_vintage", 25 ],
 	[ "absolute_reaper", 5 ],
 	[ "canine_dildo", 5 ],
 	[ "equine_dildo", 5 ],
-	[ "pb_leaflet_shion", 10 ],
-	[ "jet_hammer_off", 30 ]
+	[ "pb_leaflet_shion", 5 ],
+	[ "jet_hammer_off", 25 ],
+	[ "ptrs41", 27 ],
+	[ "145x114mm", 30 ],
+	[ "145x114mm_mag", 30 ]
 	]
 	},
 	{
@@ -198,16 +201,14 @@
     "id": "homebooks",
     "type": "item_group",
     "items":[
-	[ "pb_leaflet", 15 ],
-	[ "pb_leaflet_shion", 1 ]
+	[ "pb_leaflet", 15 ]
 	]
 	},
 	{
     "type": "item_group",
     "id": "oa_discarded_news",
     "items":[
-	[ "pb_leaflet", 20 ],
-	[ "pb_leaflet_shion", 1 ]
+	[ "pb_leaflet", 20 ]
 	]
 	}
 ]
