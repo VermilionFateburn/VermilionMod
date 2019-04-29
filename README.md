@@ -7,6 +7,7 @@ Items include weapons, gear and risqué adult items. You have been warned.
 FULL LIST:
 - High-frequency blade. A deadly end game katana found rarely in vaults and labs
 - Augmented Swordplay. A fighting style specific to the hf blade. Found in the same places as the weapon.
+- Tactical eyepatch. Eyepatch with a screen. Raises perception when worn. Rare.
 - PTRS-41. Soviet anti-tank rifle. Slightly(?) more powerful(?) than the Barrett, but way more rare(?).
 - S-01 Rail Accelerator mk2. An over-the-top rail launcher that can only be crafted by finding a rare leaflet. Has some unique mods.
 - Jet hammer. A sledgehammer-esque mauler that uses thrusters for extra oomph. Uses gasoline.
