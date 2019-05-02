@@ -1,5 +1,5 @@
 # VermilionMod
-Adds a randdom assortment of wildly different things into C:DDA
+Adds a random assortment of wildly different things into C:DDA
 
 A monster of a mod that I cobbled together from old and/or unused projects I've had lying around.
 Items include weapons, gear and risqué adult items. You have been warned.
