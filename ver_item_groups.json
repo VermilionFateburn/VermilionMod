@@ -3,20 +3,22 @@
     "id": "vault",
     "type": "item_group",
     "items": [
-	[ "hf_blade", 2 ],
-	[ "manual_augsword", 2 ],
-	[ "absolute_reaper", 2 ],
-	[ "pb_eyepatch", 2 ]
+	[ "hf_blade", 1 ],
+	[ "manual_augsword", 1 ],
+	[ "absolute_reaper", 1 ],
+	[ "pb_eyepatch", 1 ]
 	]
 	},
     {	
 	"id": "science",
 	"type": "item_group",
 	"items": [
-	[ "hf_blade", 2 ],
-	[ "manual_augsword", 2 ],
-	[ "absolute_reaper", 2 ],
-	[ "pb_eyepatch", 2 ]
+	[ "hf_blade", 1 ],
+	[ "manual_augsword", 1 ],
+	[ "absolute_reaper", 1 ],
+	[ "pb_eyepatch", 1 ],
+	[ "pb_armband_science", 3 ],
+	[ "pb_armband_staff", 3 ]
 	]
 	},
  {
@@ -49,7 +51,9 @@
 	[ "canine_dildo", 10 ],
 	[ "equine_dildo", 7 ],
 	[ "pb_leaflet_shion", 3 ],
-	[ "pb_eyepatch", 1 ]
+	[ "pb_eyepatch", 1 ],
+	[ "pb_armband_science", 2 ],
+	[ "pb_armband_staff", 2 ]
 	]
 	},
 	{
@@ -96,7 +100,9 @@
 	[ "equine_dildo", 15 ],
 	[ "skimpy_swimsuit", 45 ],
 	[ "absolute_reaper", 5 ],
-	[ "pb_leaflet_shion", 5 ]
+	[ "pb_leaflet_shion", 5 ],
+	[ "ofuda_top", 25 ],
+	[ "ofuda_bottom", 25 ]
 	]
 	},
 	{
@@ -114,7 +120,8 @@
 	[ "hf_blade", 1 ],
 	[ "manual_augsword", 1 ],
 	[ "bomb_suit", 10 ],
-	[ "pb_eyepatch", 1 ]
+	[ "pb_eyepatch", 1 ],
+	[ "pb_armband_medical", 2 ]
 	]
 	},
 	{
@@ -127,7 +134,9 @@
 	[ "canine_dildo", 1 ],
 	[ "equine_dildo", 1 ],
 	[ "egg_vibrator", 1 ],
-	[ "jet_hammer_off", 1 ]
+	[ "jet_hammer_off", 1 ],
+	[ "ofuda_top", 2 ],
+	[ "ofuda_bottom", 2 ]
 	]
 	},
 	{
@@ -171,7 +180,9 @@
 	[ "ptrs41", 27 ],
 	[ "145x114mm", 30 ],
 	[ "145x114mm_mag", 30 ],
-	[ "pb_eyepatch", 5 ]
+	[ "pb_eyepatch", 3 ],
+	[ "pb_security_armor", 3 ],
+	[ "pb_security_helmet", 3 ]
 	]
 	},
 	{
@@ -186,7 +197,6 @@
     "id" : "vault_wanderer",
 	"items":[
 	[ "mre_vintage", 15 ],
-	[ "absolute_reaper", 1 ],
 	[ "jet_hammer_off", 5 ]
 	]
 	},
@@ -195,21 +205,40 @@
     "id" : "swat_gear",
     "subtype": "distribution",
     "items":[
-	[ "bomb_suit", 12 ]
+	[ "bomb_suit", 12 ],
+	[ "pb_armband_medical", 2 ]
 	]
 	},
 	{
     "id": "homebooks",
     "type": "item_group",
     "items":[
-	[ "pb_leaflet", 15 ]
+	[ "pb_leaflet", 15 ],
+	[ "ofuda_top", 2 ],
+	[ "ofuda_bottom", 2 ]
 	]
 	},
 	{
     "type": "item_group",
     "id": "oa_discarded_news",
     "items":[
-	[ "pb_leaflet", 20 ]
+	[ "pb_leaflet", 20 ],
+	[ "ofuda_top", 2 ],
+	[ "ofuda_bottom", 2 ]
+	]
+	},
+	{
+	"type": "item_group",
+    "id": "rare",
+	"items":[
+	[ "pb_security_armor", 2 ],
+	[ "pb_security_helmet", 2 ],
+	[ "pb_armband_medical", 2 ],
+	[ "pb_armband_staff", 2 ],
+	[ "pb_armband_science", 2 ],
+	[ "pb_armband_security", 2 ],
+	[ "pb_eyepatch", 1 ],
+	[ "pb_leaflet_shion", 1 ]
 	]
 	}
 ]
